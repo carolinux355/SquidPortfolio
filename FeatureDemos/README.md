@@ -12,3 +12,5 @@ This is a collection of various player-facing features I implemented for Jellyva
 - Name Your Town: concepting the feature and implementing, intended to boost D0 retention
 - Farming: early prototyping of various models playtested internally, then taking it to production quality, owning the engineering work and managing the feature as a whole, gathering feedback from playtests and assigning action items to teammates, iterating on economy tuning and finalizing polish
 - Implementing A/B tests for various features in development and closing out experiments once winning variants were determined. Tests ranged in complexity from basic tuning swaps to fully reimplementing the early game experience.
+
+<video src="https://github.com/carolinux355/SquidPortfolio/blob/main/FeatureDemos/CharactersChatting.mov" width="400" controls></video>
