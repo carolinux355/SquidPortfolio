@@ -1,0 +1,2 @@
+# Fog Concept Shaders
+This is a series of progress videos iterating on a new design for the fog surrounding the town scene, representing the unplayable area. The concepting was done with ShaderGraph for quick iteration, handed over to art to tune any exposed parameters, then rewritten in CG to optimize the shader code for mobile.

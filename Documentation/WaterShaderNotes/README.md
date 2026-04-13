@@ -1,0 +1,2 @@
+# Water Shader Notes for Artists
+One large project we took on for Jellyvale was a complete redesign of the base town layout. As part of that effort we wanted to include more water features in town which required new shader work to be done. This is a collection of notes I put together based on the concept art to break down the required pieces so I would be able to effectively animate the water.

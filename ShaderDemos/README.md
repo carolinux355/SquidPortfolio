@@ -1,0 +1,2 @@
+# Shader Demos
+This is a collection of some of the shader work done for Jellyvale. The key goal for many of these was to provide visual delight/feedback while also being performant for mobile in a scene with potentially hundreds of sprites, spine animated characters, and particle systems running at the same time. Most of these shaders were written by hand in CG and then converted to HLSL when we migrated over to using Unity's lighting system.
