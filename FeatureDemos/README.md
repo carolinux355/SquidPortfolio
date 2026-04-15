@@ -12,5 +12,27 @@ This is a collection of various player-facing features I implemented for Jellyva
 - Name Your Town: concepting the feature and implementing, intended to boost D0 retention
 - Farming: early prototyping of various models playtested internally, then taking it to production quality, owning the engineering work and managing the feature as a whole, gathering feedback from playtests and assigning action items to teammates, iterating on economy tuning and finalizing polish
 - Implementing A/B tests for various features in development and closing out experiments once winning variants were determined. Tests ranged in complexity from basic tuning swaps to fully reimplementing the early game experience.
-[<img src="CharactersChatting.mov" width="600" height="300">](CharactersChatting.mov)
+
+Feature Demos:
+
+https://github.com/user-attachments/assets/c55bf944-de8f-482a-82d8-ea6c703e66bb
+
+https://github.com/user-attachments/assets/aa33417b-1c14-4e1b-a81f-31cb6760b4c0
+
+https://github.com/user-attachments/assets/335da5dc-05fa-4971-8793-282ceae133a1
+
+https://github.com/user-attachments/assets/a27b1100-fbd4-460a-a29f-464a5f83fac5
+
+https://github.com/user-attachments/assets/bd12b273-dacb-4fa0-9b63-3e123b17edf6
+
+https://github.com/user-attachments/assets/a779e69f-7ad0-4098-956e-d577493e2bc5
+
+https://github.com/user-attachments/assets/20d0e2a8-add0-49e7-b707-ca7820d6121a
+
+
+Tools:
+
+https://github.com/user-attachments/assets/d22f7426-9417-4515-9323-cce90a310e8b
+
+https://github.com/user-attachments/assets/d53779c9-8d40-4bcf-8dbb-c7576c2aa36e
 
